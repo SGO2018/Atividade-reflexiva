@@ -85,12 +85,8 @@
 					<input type="text" name=email" id="email">
 			</div>
 			<p>
-			
-							<label for="observacao">Insirar suas Experiências</label>
-								<textarea name="observacao" id="observacao"></textarea>
-
-
-
+			<label for="observacao">Insirar suas Experiências</label>
+				<textarea name="observacao" id="observacao"></textarea>
 		</div>
 </body>
 </html>
